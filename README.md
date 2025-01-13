@@ -1,5 +1,8 @@
 # Grapesjs Rellax
 
+[![npm](https://img.shields.io/npm/v/grapesjs-rellax.svg)](https://www.npmjs.com/package/grapesjs-rellax)
+
+
 ![showcase.gif](showcase.gif)
 
 [DEMO](https://jsfiddle.net/ry593hex)
